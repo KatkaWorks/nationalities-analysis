@@ -90,7 +90,7 @@ The results of this query will be visualised in Power BI later on.
 
 For this step, I exported the full result of the previous SQL query (Step 3) from DBeaver into a **CSV file**, which contains all ~60 rows.  
 
-- **Full dataset (CSV):** [`sql_analysis_urban_rural.csv`](./sql_analysis_urban_rural.csv)  
+- **Full dataset (CSV):**  [Full dataset (CSV)](./sql_analysis_urban_rural.csv)
 
 ### Sample of the data
 
