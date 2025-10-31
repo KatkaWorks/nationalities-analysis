@@ -174,5 +174,6 @@ LIMIT 5;
 | Irska      | 289            |
 | Korejska   | 344            |
 | Anglicka   | 668            |
+
 As can be seen from the table, these nationalities had the smallest populations in Slovakia in 2024, with numbers totalling only a few hundred people.
  
