@@ -167,13 +167,13 @@ GROUP BY Narodnost
 ORDER BY population_2024 ASC
 LIMIT 5;
 ```
-| Narodnost   | population_2024 |
+| Narodnost  | population_2024 |
 |------------|----------------|
-| Iranska    | 168            |
-| Kanadska   | 98             |
-| Irska      | 289            |
-| Korejska   | 344            |
-| Anglicka   | 668            |
+| kanadska   | 530            |
+| slieszka   | 548            |
+| iranska    | 1,076          |
+| irska      | 1,522          |
+| korejska   | 1,843          |
 
-As can be seen from the table, these nationalities had the smallest populations in Slovakia in 2024, with numbers totalling only a few hundred people.
+As can be seen from the table, these nationalities had the smallest populations in Slovakia in 2024, totalling just a few hundred or a few thousand people.
  
