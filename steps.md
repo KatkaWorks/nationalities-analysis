@@ -175,5 +175,5 @@ LIMIT 5;
 | irska      | 1,522          |
 | korejska   | 1,843          |
 
-As can be seen from the table, these nationalities had the smallest populations in Slovakia in 2024, totalling just a few hundred or a few thousand people.
+As can be seen from the table, the following nationalities had the smallest number of inhabitants in Slovakia in 2024: Canadian, Silesian, Iranian, Irish and Korean, totalling only a few hundred or thousand people.
  
