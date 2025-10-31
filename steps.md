@@ -92,6 +92,9 @@ For this step, I exported the full result of the previous SQL query (Step 3) fro
 
 - **Full dataset (CSV):**  [Full dataset (CSV)](./sql_analysis_urban_rural.csv)
 
+  Below is a sample of the dataset to illustrate the data structure and some key population changes.
+
+
 ### Sample of the data
 
 | Uzemie | Narodnost   | population_2021 | population_2024 | change_in_population |
@@ -107,4 +110,30 @@ For this step, I exported the full result of the previous SQL query (Step 3) fro
 
 > This exported CSV file can be opened in Excel, Power BI, or any data tool for further analysis and visualisation.  
 > The table above is just a preview of the full dataset.
+## Findings from Urban and Rural Population Data (2021–2024)
 
+The table below highlights the notable differences between urban and rural populations.  
+
+- In **cities**, the **Ukrainian community** experienced the greatest growth (+2,208 people), while the **Greek** and **Silesian communities** saw the smallest increases (+2 and minimal changes, respectively).  
+- In **rural areas**, the **Slovak population** continued to grow steadily (by 41,233 people), whereas the Slovak population in **cities** decreased by 31,142 people.
+## Step 5: SQL Analysis – Top 5 Nationalities with the Highest Growth in Cities (2021–2024)
+
+This analysis shows population changes in cities (mesta) and highlights the five nationalities that experienced the greatest growth between 2021 and 2024.
+
+- **Full dataset (CSV):** [sql_top5_growth_cities_2021_2024.csv](./sql_top5_growth_cities_2021_2024.csv)
+
+### SQL query
+
+```sql
+SELECT 
+    Narodnost,
+    SUM(rok_2021) AS population_2021,
+    SUM(rok_2024) AS population_2024,
+    (SUM(rok_2024) - SUM(rok_2021)) AS change_in_population
+FROM demografia_narodnost_pohlavie
+WHERE Uzemie = 'Mesta'
+GROUP BY Narodnost
+ORDER BY change_in_population DESC
+LIMIT 5;
+
+ 
