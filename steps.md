@@ -135,5 +135,20 @@ WHERE Uzemie = 'Mesta'
 GROUP BY Narodnost
 ORDER BY change_in_population DESC
 LIMIT 5;
+```
+### Sample of the data
+
+| Uzemie | Narodnost   | population_2021 | population_2024 | change_in_population |
+|--------|------------|----------------|----------------|--------------------|
+| Mesta  | ukrajinska | 6,608          | 8,816          | 2,208              |
+| Mesta  | vietnamska | 2,414          | 2,959          | 545                |
+| Mesta  | ruska      | 2,510          | 2,846          | 336                |
+| Mesta  | srbska     | 807            | 1,201          | 394                |
+| Mesta  | polska     | 2,509          | 2,660          | 151                |
+
+
+### Findings
+
+As shown in the table, the Ukrainian community experienced the largest population increase between 2021 and 2024, growing by 2,208 people. Other nationalities that grew significantly include the Vietnamese, Russian, Serbian and Polish communities.
 
  
