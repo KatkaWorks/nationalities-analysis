@@ -150,5 +150,21 @@ LIMIT 5;
 ### Findings
 
 As shown in the table, the Ukrainian community experienced the largest population increase between 2021 and 2024, growing by 2,208 people. Other nationalities that grew significantly include the Vietnamese, Russian, Serbian and Polish communities.
+## Step 6: SQL Analysis – 5 Nationalities with the Lowest Total Population in 2024
 
+This analysis shows which five nationalities had the smallest total population in Slovakia in 2024, considering both cities (Mesta) and rural areas (Vidiek).
+
+- **Full dataset (CSV):** [sql_bottom5_total_2024.csv](./sql_bottom5_total_2024.csv)
+
+### SQL query
+
+```sql
+SELECT 
+    Narodnost,
+    SUM(rok_2024) AS population_2024
+FROM demografia_narodnost_pohlavie
+GROUP BY Narodnost
+ORDER BY population_2024 ASC
+LIMIT 5;
+```
  
