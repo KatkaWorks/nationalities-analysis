@@ -196,5 +196,18 @@ The chart clearly illustrates demographic changes in Slovakia between 2021 and 2
 3. Some communities experienced a decline in population between 2021 and 2024. For example:  
 - Slovaks in cities decreased by 31,142 people.  
 - The Roma minority community also saw notable decline.
+### Additional Visualisation: Top 5 Population Growth in Cities (2021–2024)
+
+For a deeper look into urban demographic changes, I created a bar chart showing the top 5 nationalities with the highest population growth in cities between 2021 and 2024. The dataset used is `Top5_growth_cities_2021_2024.jpg`.
+
+**Visualisation:**
+
+![Top 5 Population Growth in Cities (2021–2024)](Top5_growth_cities_2021_2024.JPG)
+
+**Storytelling and Insights:**
+- The **Ukrainian community** shows the largest growth in cities, suggesting strong migration trends.
+- **Vietnamese** and **Serbian populations** also increased significantly, reflecting urban settlement patterns of foreign communities.
+- **Russian** and **Chinese communities** grew moderately, contributing to the overall urban diversity.
+- These trends highlight increasing multiculturalism in urban areas, which can guide urban planning, social services, and integration programs.
 
 
