@@ -195,6 +195,6 @@ The chart clearly illustrates demographic changes in Slovakia between 2021 and 2
 2. In **rural areas**, the **Slovak population** grew significantly (by 41,233 people), showing that the majority population is still expanding outside cities.  
 3. Some communities experienced a decline in population between 2021 and 2024. For example:  
 - Slovaks in cities decreased by 31,142 people.  
-- The Roma minority community also saw notable declines in both urban and rural areas.
+- The Roma minority community also saw notable decline.
 
 
