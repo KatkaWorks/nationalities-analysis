@@ -187,14 +187,13 @@ For this step, I visualised the population changes from 2021 to 2024 using Power
 
 ![Population change by Nationality (2021-2024)](./population_change.JPG)
 
-### Storytelling and Insights
+### Storytelling and insights
 
-The chart tells a clear story about demographic trends in Slovakia between 2021 and 2024:
+The chart clearly illustrates demographic changes in Slovakia between 2021 and 2024:
 
-1. In **cities**, the **Ukrainian community** experienced the largest population increase (+2,208 people), followed by the **Vietnamese** and **Russian** communities. This reflects growing migration to urban areas.  
-2. In **rural areas**, the **Slovak population** continues to grow steadily (+41,233 people), showing that the majority population remains concentrated outside cities.  
-3. Some communities, like the **Greek** and **Silesian**, show very small changes, indicating either stable or declining populations.  
-4. Comparing urban and rural areas highlights shifting population patterns: certain nationalities are moving towards cities, while others remain stable in the countryside.  
+1. In **cities**, the **Ukrainian community** saw the largest growth (+2,208 people), followed by the **Vietnamese**, **Serbian**, and **Russian** communities. This suggests that migration to urban areas is responsible for the population growth of certain nationalities.  
+2. In **rural areas**, the **Slovak population** grew significantly (by 41,233 people), showing that the majority population is still expanding outside cities.  
+3. Some communities experienced a decline in population between 2021 and 2024. For example:  
+   - **Slovaks in cities** decreased by 31,142 people.  
+   - **Hungarians**, **Roma**, and **Russian minority groups** also saw notable declines in both urban and rural areas.  
 
-> Overall, this visualisation helps to quickly identify which communities are growing the fastest, which are stable, and how demographic changes differ between urban and rural areas. It turns raw numbers into an easy-to-understand narrative about Slovakia's evolving population landscape.
- 
