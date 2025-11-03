@@ -208,6 +208,6 @@ For a deeper look into urban demographic changes, I created a bar chart showing 
 - The **Ukrainian community** shows the largest growth in cities, suggesting strong migration trends.
 - **Vietnamese** and **Serbian populations** also increased significantly, reflecting urban settlement patterns of foreign communities.
 - **Russian** and **Chinese communities** grew moderately, contributing to the overall urban diversity.
-- These trends highlight increasing multiculturalism in urban areas, which can guide urban planning, social services, and integration programs.
+
 
 
