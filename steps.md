@@ -176,4 +176,25 @@ LIMIT 5;
 | korejska   | 1,843          |
 
 As can be seen from the table, the following nationalities had the smallest number of inhabitants in Slovakia in 2024: Canadian, Silesian, Iranian, Irish and Korean, totalling only a few hundred or thousand people.
+## Step 7: Data Visualisation in Power BI
+
+For this step, I visualised the population changes from 2021 to 2024 using Power BI.  
+
+- The main visualisation is a **bar chart** showing the **change in population by nationality** in urban and rural areas.  
+- The dataset used is the CSV exported from the previous SQL query (`sql_analysis_urban_rural.csv`).  
+
+### Visualisation
+
+![Population change by Nationality (2021-2024)](./population_change.jpg)
+
+### Storytelling and Insights
+
+The chart tells a clear story about demographic trends in Slovakia between 2021 and 2024:
+
+1. In **cities**, the **Ukrainian community** experienced the largest population increase (+2,208 people), followed by the **Vietnamese** and **Russian** communities. This reflects growing migration to urban areas.  
+2. In **rural areas**, the **Slovak population** continues to grow steadily (+41,233 people), showing that the majority population remains concentrated outside cities.  
+3. Some communities, like the **Greek** and **Silesian**, show very small changes, indicating either stable or declining populations.  
+4. Comparing urban and rural areas highlights shifting population patterns: certain nationalities are moving towards cities, while others remain stable in the countryside.  
+
+> Overall, this visualisation helps to quickly identify which communities are growing the fastest, which are stable, and how demographic changes differ between urban and rural areas. It turns raw numbers into an easy-to-understand narrative about Slovakia's evolving population landscape.
  
