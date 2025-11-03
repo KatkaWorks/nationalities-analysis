@@ -185,7 +185,7 @@ For this step, I visualised the population changes from 2021 to 2024 using Power
 
 ### Visualisation
 
-![Population change by Nationality (2021-2024)](./population_change.jpg)
+![Population change by Nationality (2021-2024)](./population_change.JPG)
 
 ### Storytelling and Insights
 
