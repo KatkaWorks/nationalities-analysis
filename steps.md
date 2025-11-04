@@ -221,6 +221,21 @@ The dataset used for this visualisation is `bottom5_total_2024.csv`.
 
 1. The **Canadian** and **Silesian** communities are the smallest, with each having just over 500 people, and this highlights a very limited presence in Slovakia.  
 2. The **Iranian**, **Irish**, and **Korean** populations are slightly larger, with each totalling under 2,000 people, which shows that these communities remain relatively small.  
+---
+
+## Conclusion
+
+This project provided a comprehensive analysis of demographic trends relating to nationality in Slovakia between 2021 and 2024. Using data from the Statistical Office of the Slovak Republic and visualising it in Power BI, the following key findings emerged:
+
+1. **Urban growth trends:** The Ukrainian, Vietnamese, Serbian, and Russian communities experienced the fastest growth in cities, indicating significant migration to urban areas.
+2. **Rural population trends:** The Slovak majority continues to grow in rural areas, though some urban Slovak populations have declined.  
+3. The smallest communities in Slovakia are the Canadian, Silesian, Iranian, Irish and Korean populations, highlighting the diversity of minority communities.  
+4. **Overall insights:** By comparing the top and bottom populations, we can gain a clearer picture of Slovakia's demographic landscape, understanding both migration patterns and minority representation.
+
+This analysis shows how combining SQL-based data aggregation with Power BI visualisations can help to identify trends and support data-driven storytelling.
+
+---
+
 
  
 
