@@ -208,6 +208,21 @@ For a deeper look into urban demographic changes, I created a bar chart showing 
 - The **Ukrainian community** shows the largest growth in cities, suggesting strong migration trends.
 - **Vietnamese** and **Serbian populations** also increased significantly, reflecting urban settlement patterns of foreign communities.
 - **Russian** and **Chinese communities** grew moderately, contributing to the overall urban diversity.
+### Additional Visualisation: Bottom 5 Nationalities in Slovakia (2024)
+
+To analyse the smallest communities in Slovakia, I created a **bar chart** showing the **5 nationalities with the lowest total population in 2024**.  
+The dataset used for this visualisation is `bottom5_total_2024.csv`.
+
+**Visualisation:**
+
+![Bottom 5 Nationalities in 2024](./Bottom5_Nationalities_2024.JPG)
+
+**Storytelling and Insights:**
+
+1. The **Canadian** and **Silesian** communities are the smallest, with each having just over 500 people, and this highlights a very limited presence in Slovakia.  
+2. The **Iranian**, **Irish**, and **Korean** populations are slightly larger, with each totalling under 2,000 people, which shows that these communities remain relatively small.  
+
+ 
 
 
 
